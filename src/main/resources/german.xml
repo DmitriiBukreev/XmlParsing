@@ -1,0 +1,1954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE textTables SYSTEM "german.dtd">
+<textTables xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  language="de-DE" name="Texttabellen">
+	<description>Version: 2007-11</description>
+	<textTable name="DTC-table" version="1-00-000">
+		<description>Anzeigetexte</description>
+		<history>
+			<historyInfo date="2007-11-15T11:02:01" author="Testdaten" version="1-00-000">
+				<description>Letzte Aenderung</description>
+			</historyInfo>
+		</history>
+		<constraints maxChars="63" maxLines="2" />
+		<text id="FSC00000">
+			<line>Ausgabe Ende</line>
+		</text>
+		<text id="TESTID00001">
+			<line>Bremsensteuergerät</line>
+		</text>
+		<text id="TESTID00002">
+			<line>Getriebesteuergerät</line>
+		</text>
+		<text id="TESTID00003">
+			<line>Steuergerät</line>
+		</text>
+		<text id="TESTID00004">
+			<line>Steuergerät für Gasbetrieb-J659</line>
+		</text>
+		<text id="TESTID00016">
+			<line>Stellmotor Fußraum-/ Defrostklappe hinten rechts-V195</line>
+		</text>
+		<text id="TESTID00017">
+			<line>Stellmotor Fußraum-/ Defrostklappe hinten links-V196</line>
+		</text>
+		<text id="TESTID00018">
+			<line>Stellmotor Kaltklappe-V197</line>
+		</text>
+		<text id="TESTID00019">
+			<line>Stellmotor Warmklappe-V198</line>
+		</text>
+		<text id="TESTID00020">
+			<line>Stellmotor Absperrklappe Defr. und Mannanströmer re-V199</line>
+		</text>
+		<text id="TESTID00021">
+			<line>Stellmotor Absperrklappe Defr. und Mannanströmer li-V200</line>
+		</text>
+		<text id="TESTID00022">
+			<line>Stellmotor Warmklappe Mittelkonsole hinten re-V201</line>
+		</text>
+		<text id="TESTID00023">
+			<line>Stellmotor Warmklappe Mittelkonsole hinten li-V202</line>
+		</text>
+		<text id="TESTID00024">
+			<line>Stellmotor Kaltklappe Mittelkonsole hinten re-V203</line>
+		</text>
+		<text id="TESTID00025">
+			<line>Stellmotor Kaltklappe Mittelkonsole hinten li-V204</line>
+		</text>
+		<text id="TESTID00026">
+			<line>Stellmotor Verteilklappe Defr. oder Mannanströmer re-V205</line>
+		</text>
+		<text id="TESTID00027">
+			<line>Stellmotor Verteilklappe Defr. oder Mannanströmer li-V206</line>
+		</text>
+		<text id="TESTID00028">
+			<line>Stellmotor Designblende links-V207</line>
+		</text>
+		<text id="TESTID00029">
+			<line>Stellmotor Designblende mitte-V208</line>
+		</text>
+		<text id="TESTID00030">
+			<line>Stellmotor Designblende rechts-V209</line>
+		</text>
+		<text id="TESTID00031">
+			<line>Taster für Defrost hinten links-E299</line>
+		</text>
+		<text id="TESTID00032">
+			<line>Taster für Defrost hinten rechts-E300</line>
+		</text>
+		<text id="TESTID00033">
+			<line>Taster für Ausströmer vorn links-E301</line>
+		</text>
+		<text id="TESTID00034">
+			<line>Taster für Ausströmer vorn mitte links-E302</line>
+		</text>
+		<text id="TESTID00035">
+			<line>Taster für Ausströmer vorn mitte rechts-E303</line>
+		</text>
+		<text id="TESTID00036">
+			<line>Taster für Ausströmer vorn rechts-E304</line>
+		</text>
+		<text id="TESTID00037">
+			<line>Taster für Temperaturunter-schied Fußraum/Kopfraum-E305</line>
+		</text>
+		<text id="TESTID00038">
+			<line>Taster für Ausströmer Mittelkonsole hinten links-E306</line>
+		</text>
+		<text id="TESTID00039">
+			<line>Taster für Ausströmer Mittelkonsole hinten rechts-E307</line>
+		</text>
+		<text id="TESTID00040">
+			<line>Taster für Kindersicherung-E318</line>
+		</text>
+		<text id="TESTID00041">
+			<line>Stellmotor für indirekte Belüftungsklappe-V213</line>
+		</text>
+		<text id="TESTID00042">
+			<line>Lampe für Parklicht links-M43</line>
+		</text>
+		<text id="TESTID00043">
+			<line>Lampe für Parklicht rechts-M44</line>
+		</text>
+		<text id="TESTID00044">
+			<line>Stellgliedtest Gruppe 1 durchführen</line>
+		</text>
+		<text id="TESTID00045">
+			<line>Stellgliedtest Gruppe 2 durchführen</line>
+		</text>
+		<text id="TESTID00046">
+			<line>Motor für Hubdüse SRA links-V248</line>
+		</text>
+		<text id="TESTID00047">
+			<line>Motor für Hubdüse SRA rechts-V249</line>
+		</text>
+		<text id="TESTID00048">
+			<line>Temperaturfühler Wärmetauscher links-G306</line>
+		</text>
+		<text id="TESTID00049">
+			<line>Temperaturfühler Wärmetauscher rechts-G307</line>
+		</text>
+		<text id="TESTID00050">
+			<line>Temperaturfühler Verdampfer-G308</line>
+		</text>
+		<text id="TESTID00051">
+			<line>Temperaturfühler Fußraum hinten links-G309</line>
+		</text>
+		<text id="TESTID00052">
+			<line>Temperaturfühler Fußraum hinten rechts-G310</line>
+		</text>
+		<text id="TESTID00053">
+			<line>Temperaturfühler Mittelkonsole hinten links-G311</line>
+		</text>
+		<text id="TESTID00054">
+			<line>Temperaturfühler Mittelkonsole hinten rechts-G312</line>
+		</text>
+		<text id="TESTID00055">
+			<line>Motor für Kindersicherung hinten links-V142</line>
+		</text>
+		<text id="TESTID00056">
+			<line>Gebläsemotor für Temperaturfühler Innen -V210</line>
+		</text>
+		<text id="TESTID00057">
+			<line>Stellmotor für Absperrklappe B-Säule und Fußraum rechts-V211</line>
+		</text>
+		<text id="TESTID00058">
+			<line>Relais für Heizung Wischerruhestellung-J582</line>
+		</text>
+		<text id="TESTID00059">
+			<line>Klemme 30 für Innenbeleuchtung</line>
+		</text>
+		<text id="TESTID00060">
+			<line>Lampen für  Nebelscheinwerfer</line>
+		</text>
+		<text id="TESTID00061">
+			<line>Fußraumleuchten</line>
+		</text>
+		<text id="TESTID00062">
+			<line>Funktionsanforderung Fahrwerk</line>
+		</text>
+		<text id="TESTID00063">
+			<line>Schalter für Rückfahrleuchten-F4</line>
+		</text>
+		<text id="TESTID00064">
+			<line>Stellmotor für Absperrklappe B-Säule und Fußraum links-V212</line>
+		</text>
+		<text id="TESTID00065">
+			<line>Heizelement im Fußraum hinten links-Z42</line>
+		</text>
+		<text id="TESTID00066">
+			<line>Heizelement im Fußraum hinten rechts-Z43</line>
+		</text>
+		<text id="TESTID00067">
+			<line>Verbraucher 1</line>
+		</text>
+		<text id="TESTID00068">
+			<line>Verbraucher 2</line>
+		</text>
+		<text id="TESTID00069">
+			<line>Motor für Kindersicherung hinten rechts-V143</line>
+		</text>
+		<text id="TESTID00070">
+			<line>Spannung Starterbatterie</line>
+		</text>
+		<text id="TESTID00071">
+			<line>Taster für Nebelscheinwerfer</line>
+		</text>
+		<text id="TESTID00072">
+			<line>Taster für Nebelschlussleuchte</line>
+		</text>
+		<text id="TESTID00073">
+			<line>Taster für Handschuhfach</line>
+		</text>
+		<text id="TESTID00074">
+			<line>Sicherung für Steckdose 1</line>
+		</text>
+		<text id="TESTID00075">
+			<line>Sicherung für Steckdose 2</line>
+		</text>
+		<text id="TESTID00076">
+			<line>Sicherung für Steckdose 3</line>
+		</text>
+		<text id="TESTID00077">
+			<line>Endschalter für Scheibenwischer</line>
+		</text>
+		<text id="TESTID00078">
+			<line>Trennrelais 2. Batterie-J7</line>
+		</text>
+		<text id="TESTID00079">
+			<line>Schalter für Innenbeleuchtung</line>
+		</text>
+		<text id="TESTID00080">
+			<line>Funktionsanforderung Schiebedach</line>
+		</text>
+		<text id="TESTID00081">
+			<line>Unterspannungsabschaltung Sitzheizung</line>
+		</text>
+		<text id="TESTID00082">
+			<line>Klemme 61 für Generator</line>
+		</text>
+		<text id="TESTID00083">
+			<line>Vorlauf Kraftstoffpumpe</line>
+		</text>
+		<text id="TESTID00084">
+			<line>Umschaltrelais für Bordnetzbatterie-J579</line>
+		</text>
+		<text id="TESTID00085">
+			<line>Umschaltrelais für Starterbatterie-J580</line>
+		</text>
+		<text id="TESTID00086">
+			<line>Relais für Parallelschaltung Batterien-J581</line>
+		</text>
+		<text id="TESTID00087">
+			<line>Klemme 30 für startrelevante Verbraucher</line>
+		</text>
+		<text id="TESTID00088">
+			<line>Ladeüberwachung für Starterbatterie</line>
+		</text>
+		<text id="TESTID00089">
+			<line>Leitungsüberwachung für Klemme 30  Starterbatterie</line>
+		</text>
+		<text id="TESTID00090">
+			<line>Versorgungsleitung Klemme 30 Starterbatterie</line>
+		</text>
+		<text id="TESTID00091">
+			<line>Signal Zündschlüssel steckt</line>
+		</text>
+		<text id="TESTID00092">
+			<line>Temperaturfühler Starterbatterie-G331</line>
+		</text>
+		<text id="TESTID00093">
+			<line>Klemme 15 für startrelevante Verbraucher</line>
+		</text>
+		<text id="TESTID00094">
+			<line>Motor für Zentralverriegelung Tür hinten links LOCK-V214</line>
+		</text>
+		<text id="TESTID00095">
+			<line>Motor für Zentralverriegelung Tür hinten rechts LOCK-V215</line>
+		</text>
+		<text id="TESTID00096">
+			<line>Motor für Zentralverriegelung Fahrertür-SAVE-V161</line>
+		</text>
+		<text id="TESTID00097">
+			<line>Motor für Zentralverriegelung Beifahrertür-SAVE-V162</line>
+		</text>
+		<text id="TESTID00098">
+			<line>Motor für Zentralverriegelung Tür hinten links-SAVE-V163</line>
+		</text>
+		<text id="TESTID00099">
+			<line>Motor für Zentralverriegelung Tür hinten rechts-SAVE-V164</line>
+		</text>
+		<text id="TESTID00100">
+			<line>Taster für Innenverriegelung Fahrerseite-E308</line>
+		</text>
+		<text id="TESTID00101">
+			<line>Taster für Innenverriegelung Beifahrerseite-E309</line>
+		</text>
+		<text id="TESTID00102">
+			<line>Taster für Innenverriegelung hinten links-E310</line>
+		</text>
+		<text id="TESTID00103">
+			<line>Taster für Innenverriegelung hinten rechts-E311</line>
+		</text>
+		<text id="TESTID00104">
+			<line>Taster für Tankdeckelentriegelung-E319</line>
+		</text>
+		<text id="TESTID00105">
+			<line>Signal Zentralverriegelung SAVE/LOCK Fahrerseite</line>
+		</text>
+		<text id="TESTID00106">
+			<line>Signal Zentralverriegelung SAVE/LOCK Beifahrerseite</line>
+		</text>
+		<text id="TESTID00107">
+			<line>Signal Zentralverriegelung SAVE/LOCK hinten links</line>
+		</text>
+		<text id="TESTID00108">
+			<line>Signal Zentralverriegelung SAVE/LOCK hinten rechts</line>
+		</text>
+		<text id="TESTID00109">
+			<line>Lampe für Spiegelblinker Fahrerseite-L131</line>
+		</text>
+		<text id="TESTID00110">
+			<line>Lampe für Spiegelblinker Beifahrerseite-L132</line>
+		</text>
+		<text id="TESTID00111">
+			<line>Kontrolllampe für Innenverriegelung Fahrerseite-K174</line>
+		</text>
+		<text id="TESTID00112">
+			<line>Kontrolllampe für Innenverriegelung Beifahrerseite-K175</line>
+		</text>
+		<text id="TESTID00113">
+			<line>Kontrolllampe für Innenverriegelung hinten links-K176</line>
+		</text>
+		<text id="TESTID00114">
+			<line>Kontrolllampe für Innenverriegelung hinten rechts-K177</line>
+		</text>
+		<text id="TESTID00115">
+			<line>Taster für Telefonverbindung Beifahrerseite-E320</line>
+		</text>
+		<text id="TESTID00116">
+			<line>Taster für Telefonverbindung hinten links-E321</line>
+		</text>
+		<text id="TESTID00117">
+			<line>Taster für Telefonverbindung hinten rechts-E322</line>
+		</text>
+		<text id="TESTID00118">
+			<line>Taster für Defrost Fahrerseite-E323</line>
+		</text>
+		<text id="TESTID00119">
+			<line>Taster für Defrost Beifahrerseite-E324</line>
+		</text>
+		<text id="TESTID00120">
+			<line>Außenwarnleuchte/Türausstiegsleuchte Fahrerseite</line>
+		</text>
+		<text id="TESTID00121">
+			<line>Außenwarnleuchte/Türausstiegsleuchte Beifahrerseite</line>
+		</text>
+		<text id="TESTID00122">
+			<line>Außenwarnleuchte/Türausstiegsleuchte hinten links</line>
+		</text>
+		<text id="TESTID00123">
+			<line>Außenwarnleuchte/Türausstiegsleuchte hinten rechts</line>
+		</text>
+		<text id="TESTID00124">
+			<line>Leitung für Kommunikation</line>
+			<line>Türsteuergerät-Zuziehhilfe Fahrerseite</line>
+		</text>
+		<text id="TESTID00125">
+			<line>Leitung für Kommunikation</line>
+			<line>Türsteuergerät-Zuziehhilfe Beifahrerseite</line>
+		</text>
+		<text id="TESTID00126">
+			<line>Leitung für Kommunikation</line>
+			<line>Türsteuergerät-Zuziehhilfe hinten links</line>
+		</text>
+		<text id="TESTID00127">
+			<line>Leitung für Kommunikation</line>
+			<line>Türsteuergerät-Zuziehhilfe hinten rechts</line>
+		</text>
+		<text id="TESTID00128">
+			<line>Kontrolllampe für Telefonverbindung Beifahrerseite-K178</line>
+		</text>
+		<text id="TESTID00129">
+			<line>Beleuchtung für Türinnengriff hinten links-L133</line>
+		</text>
+		<text id="TESTID00130">
+			<line>Beleuchtung für Türinnengriff hinten rechts-L134</line>
+		</text>
+		<text id="TESTID00131">
+			<line>Türaußengriffbeleuchtung/Spiegelleuchte Fahrerseite</line>
+		</text>
+		<text id="TESTID00132">
+			<line>Türaußengriffbeleuchtung/Spiegelleuchte Beifahrerseite</line>
+		</text>
+		<text id="TESTID00133">
+			<line>Türaußengriffbeleuchtung/Spiegelleuchte hinten links</line>
+		</text>
+		<text id="TESTID00134">
+			<line>Türaußengriffbeleuchtung/Spiegelleuchte hinten rechts</line>
+		</text>
+		<text id="TESTID00135">
+			<line>Geber für Radbeschleunigung vorn links-G337</line>
+		</text>
+		<text id="TESTID00136">
+			<line>Geber für Radbeschleunigung vorn rechts-G338</line>
+		</text>
+		<text id="TESTID00137">
+			<line>Geber für Radbeschleunigung hinten links-G339</line>
+		</text>
+		<text id="TESTID00138">
+			<line>Geber für Radbeschleunigung hinten rechts-G340</line>
+		</text>
+		<text id="TESTID00139">
+			<line>Geber für Karosseriebeschleunigung vorn links-G341</line>
+		</text>
+		<text id="TESTID00140">
+			<line>Geber für Karosseriebeschleunigung vorn rechts-G342</line>
+		</text>
+		<text id="TESTID00141">
+			<line>Geber für Karosseriebeschleunigung hinten-G343</line>
+		</text>
+		<text id="TESTID00142">
+			<line>Ventil für Dämpfungsverstellung vorne links-N336</line>
+		</text>
+		<text id="TESTID00143">
+			<line>Ventil für Dämpfungsverstellung vorne rechts-N337</line>
+		</text>
+		<text id="TESTID00144">
+			<line>Ventil für Dämpfungsverstellung hinten links-N338</line>
+		</text>
+		<text id="TESTID00145">
+			<line>Ventil für Dämpfungsverstellung hinten rechts-N339</line>
+		</text>
+		<text id="TESTID00146">
+			<line>Versorgungsspannung für Geber für Beschleunigung</line>
+			<line>vorne rechts und hinten links</line>
+		</text>
+		<text id="TESTID00147">
+			<line>Versorgungsspannung für Geber für Beschleunigung</line>
+			<line>vorne links und hinten rechts</line>
+		</text>
+		<text id="TESTID00148">
+			<line>Spannungswandler für Starterbatterieladung-A15</line>
+		</text>
+		<text id="TESTID00149">
+			<line>Keine Bandendeprogrammierung erfolgt</line>
+		</text>
+		<text id="TESTID00150">
+			<line>Plausibilität Bremskraftverstärkersystem</line>
+		</text>
+		<text id="TESTID00151">
+			<line>Plausibilität ADR-System</line>
+		</text>
+		<text id="TESTID00152">
+			<line>Steuergerät für Scheibenwischermotor Beifahrerseite-J584</line>
+		</text>
+		<text id="TESTID00153">
+			<line>Scheibenwischermotor Fahrerseite-V216</line>
+		</text>
+		<text id="TESTID00154">
+			<line>Scheibenwischermotor Beifahrerseite-V217</line>
+		</text>
+		<text id="TESTID00155">
+			<line>Kommunikation Steuergeräte Fahrerseite-Beifahrerseite</line>
+		</text>
+		<text id="TESTID00156">
+			<line>Ansteuerung für Scheibenwaschpumpe</line>
+		</text>
+		<text id="TESTID00157">
+			<line>Klemme X</line>
+		</text>
+		<text id="TESTID00158">
+			<line>Funktionsanforderung Dimmstufe erhöhen</line>
+		</text>
+		<text id="TESTID00159">
+			<line>Funktionsanforderung Dimmstufe verringern</line>
+		</text>
+		<text id="TESTID00160">
+			<line>Adaption Bremskraftverstärker</line>
+		</text>
+		<text id="TESTID00161">
+			<line>Systemtest Bremskraftverstärker</line>
+		</text>
+		<text id="TESTID00162">
+			<line>Anpassung Steuergerät für Bremskraftverstärkung nicht erfolgt</line>
+		</text>
+		<text id="TESTID00163">
+			<line>Steuergerät für Bremskraftverstärkung lernt Arbeitspunkte</line>
+		</text>
+		<text id="TESTID00164">
+			<line>Steuergerät für Batterieüberwachung-J367 im Notbetrieb</line>
+		</text>
+		<text id="TESTID00165">
+			<line>Schalter für Getriebestellung P/N</line>
+		</text>
+		<text id="TESTID00166">
+			<line>Schalter für Zugang und Startberechtigung-E415</line>
+		</text>
+		<text id="TESTID00167">
+			<line>Schlüssel 5</line>
+		</text>
+		<text id="TESTID00168">
+			<line>Schlüssel 6</line>
+		</text>
+		<text id="TESTID00169">
+			<line>Schlüssel 7</line>
+		</text>
+		<text id="TESTID00170">
+			<line>Schlüssel 8</line>
+		</text>
+		<text id="TESTID00171">
+			<line>Schlüssel 1 nicht gelernt</line>
+		</text>
+		<text id="TESTID00172">
+			<line>Schlüssel 2 nicht gelernt</line>
+		</text>
+		<text id="TESTID00173">
+			<line>Schlüssel 3 nicht gelernt</line>
+		</text>
+		<text id="TESTID00174">
+			<line>Schlüssel 4 nicht gelernt</line>
+		</text>
+		<text id="TESTID00175">
+			<line>Schlüssel 5 nicht gelernt</line>
+		</text>
+		<text id="TESTID00176">
+			<line>Schlüssel 6 nicht gelernt</line>
+		</text>
+		<text id="TESTID00177">
+			<line>Schlüssel 7 nicht gelernt</line>
+		</text>
+		<text id="TESTID00178">
+			<line>Schlüssel 8 nicht gelernt</line>
+		</text>
+		<text id="TESTID00179">
+			<line>Antenne Fahrerseite für Zugang und Startberechtigung-R134</line>
+		</text>
+		<text id="TESTID00180">
+			<line>Antenne Beifahrerseite für Zugang und Startberechtigung-R135</line>
+		</text>
+		<text id="TESTID00181">
+			<line>Antenne Stoßfänger hinten für Zugang und Startberechtig.-R136</line>
+		</text>
+		<text id="TESTID00182">
+			<line>Antenne im Kofferraum für Zugang und Startberechtigung</line>
+		</text>
+		<text id="TESTID00183">
+			<line>Antenne -1- Innenraum für Zugang und Startberechtigung-R138</line>
+		</text>
+		<text id="TESTID00184">
+			<line>Ansteuerung für Taster Motorstart/-stop</line>
+		</text>
+		<text id="TESTID00185">
+			<line>Ansteuerung Relais für  Spannungsversorgung Klemme 15</line>
+		</text>
+		<text id="TESTID00186">
+			<line>Ansteuerung Relais für  Spannungsversorgung Klemme 15SV</line>
+		</text>
+		<text id="TESTID00187">
+			<line>Ansteuerung Relais für  Spannungsversorgung Klemme 75X</line>
+		</text>
+		<text id="TESTID00188">
+			<line>Ansteuerung 1 Relais für  Spannungsversorgung Klemme 50</line>
+		</text>
+		<text id="TESTID00189">
+			<line>Ansteuerung 2 Relais für  Spannungsversorgung Klemme 50</line>
+		</text>
+		<text id="TESTID00190">
+			<line>Sensor für Türaußengriffberührung Fahrerseite</line>
+		</text>
+		<text id="TESTID00191">
+			<line>Sensor für Türaußengriffberührung Beifahrerseite</line>
+		</text>
+		<text id="TESTID00192">
+			<line>Sensor für Türaußengriffberührung hinten links</line>
+		</text>
+		<text id="TESTID00193">
+			<line>Sensor für Türaußengriffberührung hinten rechts</line>
+		</text>
+		<text id="TESTID00194">
+			<line>Zündschlüsselabzugssperre</line>
+		</text>
+		<text id="TESTID00195">
+			<line>Spannungsversorgung für Potentiometer Innenspiegel</line>
+		</text>
+		<text id="TESTID00196">
+			<line>Potentiometer horizontal für Innenspiegel-G353</line>
+		</text>
+		<text id="TESTID00197">
+			<line>Potentiometer vertikal für Innenspiegel-G354</line>
+		</text>
+		<text id="TESTID00198">
+			<line>EC-Spiegel im Innenspiegel-Y7</line>
+		</text>
+		<text id="TESTID00199">
+			<line>Taster für Innenlicht vorn-E326</line>
+		</text>
+		<text id="TESTID00200">
+			<line>Taster für Innenlicht hinten-E327</line>
+		</text>
+		<text id="TESTID00201">
+			<line>Taster für Leselicht vorn-E328</line>
+		</text>
+		<text id="TESTID00202">
+			<line>Taster für Leselicht hinten-E329</line>
+		</text>
+		<text id="TESTID00203">
+			<line>Schalter für Schiebedach-E8</line>
+		</text>
+		<text id="TESTID00204">
+			<line>Taster für Schiebedach-E325</line>
+		</text>
+		<text id="TESTID00205">
+			<line>Kontrolllampe für Garagentoröffner-K179</line>
+		</text>
+		<text id="TESTID00206">
+			<line>Ansteuerung Motoren für Innenspiegel</line>
+		</text>
+		<text id="TESTID00207">
+			<line>Heizung für Geber für Luftfeuchtigkeit-N340</line>
+		</text>
+		<text id="TESTID00208">
+			<line>Klemme 30 für Handschuhfachbeleuchtung</line>
+		</text>
+		<text id="TESTID00209">
+			<line>Klemme 30 für Make-up-Spiegel</line>
+		</text>
+		<text id="TESTID00210">
+			<line>Ansteuerung für Innenleuchten vorn</line>
+		</text>
+		<text id="TESTID00211">
+			<line>Ansteuerung für Innenleuchten hinten</line>
+		</text>
+		<text id="TESTID00212">
+			<line>Ansteuerung für Leseleuchten vorn links</line>
+		</text>
+		<text id="TESTID00213">
+			<line>Ansteuerung für Leseleuchten vorn rechts</line>
+		</text>
+		<text id="TESTID00214">
+			<line>Ansteuerung für Leseleuchten hinten links</line>
+		</text>
+		<text id="TESTID00215">
+			<line>Ansteuerung für Leseleuchten hinten rechts</line>
+		</text>
+		<text id="TESTID00216">
+			<line>Signal EC-Spiegel aufblenden</line>
+		</text>
+		<text id="TESTID00217">
+			<line>Versorgungsspannung für Geber für Luftfeuchtigkeit</line>
+		</text>
+		<text id="TESTID00218">
+			<line>Geber für Luftfeuchtigkeit-G355</line>
+		</text>
+		<text id="TESTID00219">
+			<line>Verladungsniveau aktiv</line>
+		</text>
+		<text id="TESTID00220">
+			<line>Verbindung zum Schiebedach</line>
+		</text>
+		<text id="TESTID00221">
+			<line>Verbindung zur Innenraumüberwachung</line>
+		</text>
+		<text id="TESTID00222">
+			<line>Verbindung zum Regensensor</line>
+		</text>
+		<text id="TESTID00223">
+			<line>Kontrolllampe für Geber für Fahrzeugneigung-K188</line>
+		</text>
+		<text id="TESTID00224">
+			<line>Auswerfer für Heckdeckelschloss spannen</line>
+		</text>
+		<text id="TESTID00225">
+			<line>Auswerfer für Heckdeckelschloss entspannen</line>
+		</text>
+		<text id="TESTID00226">
+			<line>Kontrolllampe für Dämpfungsverstellung-K189</line>
+		</text>
+		<text id="TESTID00227">
+			<line>Taster für Dämpfungsverstellung-E387</line>
+		</text>
+		<text id="TESTID00228">
+			<line>Taster für Niveauregelung-E388</line>
+		</text>
+		<text id="TESTID00229">
+			<line>Kältemitteldruck</line>
+		</text>
+		<text id="TESTID00230">
+			<line>Schalter für Getriebestellung P-F305</line>
+		</text>
+		<text id="TESTID00231">
+			<line>falscher Motordatensatz</line>
+		</text>
+		<text id="TESTID00232">
+			<line>falscher Getriebedatensatz</line>
+		</text>
+		<text id="TESTID00233">
+			<line>Sensor für autom. Distanzregelung,</line>
+			<line>Erfassungsbereich blockiert</line>
+		</text>
+		<text id="TESTID00234">
+			<line>Sensor für automatische Distanzregelung verstellt</line>
+		</text>
+		<text id="TESTID00235">
+			<line>Taster für automatische Distanzregelung-E357</line>
+		</text>
+		<text id="TESTID00236">
+			<line>Antenne 2 für Innenraum für Zugang und Startberechtigung-R139</line>
+		</text>
+		<text id="TESTID00237">
+			<line>Magnetventil für ABS vorn links-N59</line>
+		</text>
+		<text id="TESTID00238">
+			<line>Magnetventil für ABS vorn rechts-N58</line>
+		</text>
+		<text id="TESTID00239">
+			<line>Magnetventil für ABS hinten links-N57</line>
+		</text>
+		<text id="TESTID00240">
+			<line>Magnetventil für ABS hinten rechts-N56</line>
+		</text>
+		<text id="TESTID00241">
+			<line>Druckregelventil für Anti-Schlupf-N238</line>
+		</text>
+		<text id="TESTID00242">
+			<line>Ventil für Motordrosselung-N237</line>
+		</text>
+		<text id="TESTID00243">
+			<line>Motorbremse</line>
+		</text>
+		<text id="TESTID00244">
+			<line>Versorgungsspannung für ABS-Ventile</line>
+			<line>vorn rechts + hinten links</line>
+		</text>
+		<text id="TESTID00245">
+			<line>Versorgungsspannung für ABS-Ventile</line>
+			<line>vorn links + hinten rechts</line>
+		</text>
+		<text id="TESTID00246">
+			<line>Masse für ABS-Ventile</line>
+			<line>vorn rechts + hinten links</line>
+		</text>
+		<text id="TESTID00247">
+			<line>Masse für ABS-Ventile</line>
+			<line>vorn links + hinten rechts</line>
+		</text>
+		<text id="TESTID00248">
+			<line>Schalter für Getriebe-E206</line>
+		</text>
+		<text id="TESTID00249">
+			<line>Funktionsrückmeldung Regler für Umluftgebläse</line>
+		</text>
+		<text id="TESTID00250">
+			<line>Schalter für Geländebetrieb-E207</line>
+		</text>
+		<text id="TESTID00251">
+			<line>Geber 4 für Kraftstoffvorrat-G393</line>
+		</text>
+		<text id="TESTID00252">
+			<line>SBBR-Leuchte hinten links</line>
+		</text>
+		<text id="TESTID00253">
+			<line>SBBR-Leuchte hinten rechts</line>
+		</text>
+		<text id="TESTID00254">
+			<line>Anti-Schlupf Einstellung fehlt</line>
+		</text>
+		<text id="TESTID00255">
+			<line>Ventile für ABS</line>
+		</text>
+		<text id="TESTID00256">
+			<line>Geber für Kältemitteldruck/-temperatur-G395</line>
+		</text>
+		<text id="TESTID00257">
+			<line>Einlaßventil ABS vorn links-N101</line>
+		</text>
+		<text id="TESTID00258">
+			<line>Magnetventil 1-N88</line>
+		</text>
+		<text id="TESTID00259">
+			<line>Einlaßventil ABS vorn rechts-N99</line>
+		</text>
+		<text id="TESTID00260">
+			<line>Magnetventil 2-N89</line>
+		</text>
+		<text id="TESTID00261">
+			<line>Einlaßventil ABS hinten-N103</line>
+		</text>
+		<text id="TESTID00262">
+			<line>Magnetventil 3-N90</line>
+		</text>
+		<text id="TESTID00263">
+			<line>Getriebe</line>
+		</text>
+		<text id="TESTID00264">
+			<line>Magnetventil 4-N91</line>
+		</text>
+		<text id="TESTID00265">
+			<line>Auslassventil ABS vorn links-N102</line>
+		</text>
+		<text id="TESTID00266">
+			<line>Magnetventil 5-N92</line>
+		</text>
+		<text id="TESTID00267">
+			<line>Auslassventil ABS vorn rechts-N100</line>
+		</text>
+		<text id="TESTID00268">
+			<line>Magnetventil 6-N93</line>
+		</text>
+		<text id="TESTID00269">
+			<line>Auslassventil ABS hinten-N104</line>
+		</text>
+		<text id="TESTID00270">
+			<line>Magnetventil 7-N94</line>
+		</text>
+		<text id="TESTID00271">
+			<line>siehe Reparaturgruppe 01</line>
+		</text>
+		<text id="TESTID00272">
+			<line>Funktionsabschaltung durch elektromagnetische Störungen</line>
+		</text>
+		<text id="TESTID00273">
+			<line>Einlaßventil ABS hinten rechts-N133</line>
+		</text>
+		<text id="TESTID00274">
+			<line>Einlaßventil ABS hinten links-N134</line>
+		</text>
+		<text id="TESTID00275">
+			<line>Auslassventil ABS hinten rechts-N135</line>
+		</text>
+		<text id="TESTID00276">
+			<line>Auslassventil ABS hinten links-N136</line>
+		</text>
+		<text id="TESTID00277">
+			<line>Ein-/Auslassventil ABS vorn links-N137</line>
+		</text>
+		<text id="TESTID00278">
+			<line>Hauptventil ABS-N105</line>
+		</text>
+		<text id="TESTID00279">
+			<line>Ventil 1 für Differentialsperre-N125</line>
+		</text>
+		<text id="TESTID00280">
+			<line>Ventil 2 für Differentialsperre-N126</line>
+		</text>
+		<text id="TESTID00281">
+			<line>Geber für Fahrgeschwindigkeit-G68</line>
+		</text>
+		<text id="TESTID00282">
+			<line>Drosselklappensteller-V60</line>
+		</text>
+		<text id="TESTID00283">
+			<line>Drehzahlfühler vorn links-G47</line>
+		</text>
+		<text id="TESTID00284">
+			<line>Ein-/Auslassventil ABS vorn rechts-N138</line>
+		</text>
+		<text id="TESTID00285">
+			<line>Drehzahlfühler vorn rechts-G45</line>
+		</text>
+		<text id="TESTID00286">
+			<line>Ein-/Auslassventil ABS hinten links-N139</line>
+		</text>
+		<text id="TESTID00287">
+			<line>Drehzahlfühler hinten rechts-G44</line>
+		</text>
+		<text id="TESTID00288">
+			<line>Stellglied für Lenksäulenverriegelung-N360</line>
+		</text>
+		<text id="TESTID00289">
+			<line>Ein-/Auslassventil ABS hinten rechts-N140</line>
+		</text>
+		<text id="TESTID00290">
+			<line>Drehzahlfühler hinten links-G46</line>
+		</text>
+		<text id="TESTID00291">
+			<line>Druckschalter-F116/Warnkontakt-F117</line>
+		</text>
+		<text id="TESTID00292">
+			<line>Hydraulische Energieversorgung Druckniveau</line>
+		</text>
+		<text id="TESTID00293">
+			<line>Multifunktionsschalter-F125</line>
+		</text>
+		<text id="TESTID00294">
+			<line>Druckschalter 1 für Getriebezustand</line>
+		</text>
+		<text id="TESTID00295">
+			<line>Druckschalter 2 für Getriebezustand</line>
+		</text>
+		<text id="TESTID00296">
+			<line>Kick-down-Schalter-F8</line>
+		</text>
+		<text id="TESTID00297">
+			<line>Geber für Getriebedrehzahl-G38</line>
+		</text>
+		<text id="TESTID00298">
+			<line>Schalter für Differentialsperre-E121</line>
+		</text>
+		<text id="TESTID00299">
+			<line>Programmschalter-E122</line>
+		</text>
+		<text id="TESTID00300">
+			<line>Geber für Getriebeöltemperatur-G93</line>
+		</text>
+		<text id="TESTID00301">
+			<line>Rückförderpumpe für ABS-V39</line>
+		</text>
+		<text id="TESTID00302">
+			<line>Relais für Magnetventile ABS-J106</line>
+		</text>
+		<text id="TESTID00303">
+			<line>Funktionswahlschalter-E91</line>
+		</text>
+		<text id="TESTID00304">
+			<line>Ansteuerung Regler für Frischluftgebläse</line>
+		</text>
+		<text id="TESTID00305">
+			<line>Kraftstoffverbrauchsanzeige-Signal</line>
+		</text>
+		<text id="TESTID00306">
+			<line>Sekundärluftsystem Zylinder-Reihe 1</line>
+		</text>
+		<text id="TESTID00307">
+			<line>Sekundärluftsystem Zylinder-Reihe 2</line>
+		</text>
+		<text id="TESTID00308">
+			<line>Versorgungsspannung Motoren Schiebedach/ Rolo Schiebedach</line>
+		</text>
+		<text id="TESTID00309">
+			<line>Dosierpumpe für Reinigungsmittel-V135</line>
+		</text>
+		<text id="TESTID00310">
+			<line>Temperaturfühler 1 für Katalysator-G20</line>
+		</text>
+		<text id="TESTID00311">
+			<line>Reifenfüllanschluss</line>
+		</text>
+		<text id="TESTID00312">
+			<line>Temperaturfühler 2 für Katalysator-G132</line>
+		</text>
+		<text id="TESTID00313">
+			<line>Katalysator</line>
+		</text>
+		<text id="TESTID00314">
+			<line>Zweiwegeventil für Abgasrückführung-N161</line>
+		</text>
+		<text id="TESTID00315">
+			<line>Verbindung zum Rolo für Schiebedach</line>
+		</text>
+		<text id="TESTID00316">
+			<line>Lampen für Heckbeleuchtung</line>
+		</text>
+		<text id="TESTID00317">
+			<line>Steuergerät für Heckklappe-J605</line>
+		</text>
+		<text id="TESTID00318">
+			<line>Versorgungsspannung für Steuergerät für Heckklappe</line>
+		</text>
+		<text id="TESTID00319">
+			<line>Motor für Heckklappenhydraulik-V241</line>
+		</text>
+		<text id="TESTID00320">
+			<line>Ventil für Heckklappenhydraulik-N346</line>
+		</text>
+		<text id="TESTID00321">
+			<line>Geber für Heckklappenhydraulik-G383</line>
+		</text>
+		<text id="TESTID00322">
+			<line>Schalter für Deaktivierung Innenraumüberwachung-E267</line>
+		</text>
+		<text id="TESTID00323">
+			<line>Geber für Fahrzeugneigung-G384</line>
+		</text>
+		<text id="TESTID00324">
+			<line>Taster für Deaktivierung Geber für Fahrzeugneigung-E360</line>
+		</text>
+		<text id="TESTID00325">
+			<line>Taster für Heckscheibenöffnung-E361</line>
+		</text>
+		<text id="TESTID00326">
+			<line>Schalter für Notabschaltung Diebstahlwarnanlage-E362</line>
+		</text>
+		<text id="TESTID00327">
+			<line>Signal Schiebedach öffnen</line>
+		</text>
+		<text id="TESTID00328">
+			<line>Ansteuerung für Entriegelung Heckscheibe</line>
+		</text>
+		<text id="TESTID00329">
+			<line>Ansteuerung für Entriegelung Heckklappe</line>
+		</text>
+		<text id="TESTID00330">
+			<line>Signal Heckwischer Intervall</line>
+		</text>
+		<text id="TESTID00331">
+			<line>Signal Heckwischer Wischwasch</line>
+		</text>
+		<text id="TESTID00332">
+			<line>Ansteuerung für Tankklappe</line>
+		</text>
+		<text id="TESTID00333">
+			<line>Ansteuerung für Relais für Zuziehhilfe</line>
+		</text>
+		<text id="TESTID00334">
+			<line>Ansteuerung beheizbare Heckscheibe Stufe 2</line>
+		</text>
+		<text id="TESTID00335">
+			<line>Ansteuerung Schlussleuchten</line>
+		</text>
+		<text id="TESTID00336">
+			<line>Ansteuerung Beleuchtung Heck</line>
+		</text>
+		<text id="TESTID00337">
+			<line>Ansteuerung Beleuchtung Fahrertür</line>
+		</text>
+		<text id="TESTID00338">
+			<line>Ansteuerung Beleuchtung Beifahrertür</line>
+		</text>
+		<text id="TESTID00339">
+			<line>Ansteuerung Beleuchtung Tür hinten links</line>
+		</text>
+		<text id="TESTID00340">
+			<line>Ansteuerung Beleuchtung Tür hinten rechts</line>
+		</text>
+		<text id="TESTID00341">
+			<line>Ansteuerung Heckklappe AUF</line>
+		</text>
+		<text id="TESTID00342">
+			<line>Ansteuerung Heckklappe ZU</line>
+		</text>
+		<text id="TESTID00343">
+			<line>Ansteuerung Heckklappenschloss ausschwenken</line>
+		</text>
+		<text id="TESTID00344">
+			<line>Ansteuerung Heckklappenschloss einschwenken</line>
+		</text>
+		<text id="TESTID00345">
+			<line>Ansteuerung Heckklappenschloss entriegeln</line>
+		</text>
+		<text id="TESTID00346">
+			<line>Ansteuerung Heckklappenschloss verriegeln</line>
+		</text>
+		<text id="TESTID00347">
+			<line>Magnetventil 8</line>
+		</text>
+		<text id="TESTID00348">
+			<line>Magnetventil 9</line>
+		</text>
+		<text id="TESTID00349">
+			<line>Magnetventil 10</line>
+		</text>
+		<text id="TESTID00350">
+			<line>Masserückführung Modulationsventile</line>
+		</text>
+		<text id="TESTID00351">
+			<line>Geber für Drehzahl Zwischenwelle-G265</line>
+		</text>
+		<text id="TESTID00352">
+			<line>Klemme 30A</line>
+		</text>
+		<text id="TESTID00353">
+			<line>Funktionsrückmeldung Regler für Frischluftgebläse</line>
+		</text>
+		<text id="TESTID00354">
+			<line>Spannungswandler Frontscheibenheizung-A18</line>
+		</text>
+		<text id="TESTID00355">
+			<line>Stellmotor für Mannanströmer vorn links-V237</line>
+		</text>
+		<text id="TESTID00356">
+			<line>Stellmotor für Mannanströmer vorn rechts-V238</line>
+		</text>
+		<text id="TESTID00357">
+			<line>Ansteuerung  Regler für Umluftgebläse</line>
+		</text>
+		<text id="TESTID00358">
+			<line>Ansteuerung für Kühlmittelabsperrventil</line>
+		</text>
+		<text id="TESTID00359">
+			<line>Temperaturfühler für Mannanströmer vorn links-G385</line>
+		</text>
+		<text id="TESTID00360">
+			<line>Temperaturfühler für Mannanströmer vorn rechts-G386</line>
+		</text>
+		<text id="TESTID00361">
+			<line>Heizelement für Zusatzheizung-Z35</line>
+		</text>
+		<text id="TESTID00362">
+			<line>Stellmotor für Luftmengenklappe hinten links-V239</line>
+		</text>
+		<text id="TESTID00363">
+			<line>Stellmotor für Luftmengenklappe hinten rechts-V240</line>
+		</text>
+		<text id="TESTID00364">
+			<line>Klemme 15 Slave</line>
+		</text>
+		<text id="TESTID00365">
+			<line>Leitung für Kommunikation Innenraumüberwachung Eingang</line>
+		</text>
+		<text id="TESTID00366">
+			<line>Leitung für Kommunikation Innenraumüberwachung Ausgang</line>
+		</text>
+		<text id="TESTID00367">
+			<line>Dämpfer vorn links weich</line>
+		</text>
+		<text id="TESTID00368">
+			<line>Dämpfer vorn links hart</line>
+		</text>
+		<text id="TESTID00369">
+			<line>Dämpfer vorn rechts weich</line>
+		</text>
+		<text id="TESTID00370">
+			<line>Dämpfer vorn rechts hart</line>
+		</text>
+		<text id="TESTID00371">
+			<line>Dämpfer hinten links weich</line>
+		</text>
+		<text id="TESTID00372">
+			<line>Dämpfer hinten links hart</line>
+		</text>
+		<text id="TESTID00373">
+			<line>Dämpfer hinten rechts weich</line>
+		</text>
+		<text id="TESTID00374">
+			<line>Dämpfer hinten rechts hart</line>
+		</text>
+		<text id="TESTID00375">
+			<line>Ansteuerung Ausstellfenster links öffnen</line>
+		</text>
+		<text id="TESTID00376">
+			<line>Ansteuerung Ausstellfenster links schließen</line>
+		</text>
+		<text id="TESTID00377">
+			<line>Ansteuerung Ausstellfenster rechts öffnen</line>
+		</text>
+		<text id="TESTID00378">
+			<line>Ansteuerung Ausstellfenster rechts schließen</line>
+		</text>
+		<text id="TESTID00379">
+			<line>Klemme 58s</line>
+		</text>
+		<text id="TESTID00380">
+			<line>Steuergerät für Sonderfahrzeuge-J608</line>
+		</text>
+		<text id="TESTID00381">
+			<line>Datenbus Kombiinstrument</line>
+		</text>
+		<text id="TESTID00382">
+			<line>Zünder für Kopfairbag hinten, Fahrerseite-N343</line>
+		</text>
+		<text id="TESTID00383">
+			<line>Zünder für Kopfairbag hinten, Beifahrerseite-N344</line>
+		</text>
+		<text id="TESTID00384">
+			<line>Optischer Datenbus</line>
+		</text>
+		<text id="TESTID00385">
+			<line>Plusausgang Audiokanal für Sprache/Telefon</line>
+		</text>
+		<text id="TESTID00386">
+			<line>Minusausgang Audiokanal für Sprache/Telefon</line>
+		</text>
+		<text id="TESTID00387">
+			<line>Plusausgang Audiokanal für Navigationsdurchsagen</line>
+		</text>
+		<text id="TESTID00388">
+			<line>Minusausgang Audiokanal für Navigationsdurchsagen</line>
+		</text>
+		<text id="TESTID00389">
+			<line>Kopfhörerausgang 1, linker Kanal</line>
+		</text>
+		<text id="TESTID00390">
+			<line>Kopfhörerausgang 1, rechter Kanal</line>
+		</text>
+		<text id="TESTID00391">
+			<line>Kopfhörerausgang 2, linker Kanal</line>
+		</text>
+		<text id="TESTID00392">
+			<line>Kopfhörerausgang 2, rechter Kanal</line>
+		</text>
+		<text id="TESTID00393">
+			<line>Displaytest, Schwarzsegmente</line>
+		</text>
+		<text id="TESTID00394">
+			<line>Displaytest, Weißsegmente</line>
+		</text>
+		<text id="TESTID00395">
+			<line>Displaytest, Rotsegmente</line>
+		</text>
+		<text id="TESTID00396">
+			<line>Displaytest, Grünsegmente</line>
+		</text>
+		<text id="TESTID00397">
+			<line>Displaytest, Blausegmente</line>
+		</text>
+		<text id="TESTID00398">
+			<line>Auffindbeleuchtung</line>
+		</text>
+		<text id="TESTID00399">
+			<line>Beleuchtung Funktionsrückmeldung</line>
+		</text>
+		<text id="TESTID00400">
+			<line>Blinker, akustische Rückmeldung</line>
+		</text>
+		<text id="TESTID00401">
+			<line>akustischer Signalgeber</line>
+		</text>
+		<text id="TESTID00402">
+			<line>Heizelement für Luftzusatzheizung-Z35</line>
+		</text>
+		<text id="TESTID00403">
+			<line>Motor für Schiebedach-V1</line>
+		</text>
+		<text id="TESTID00404">
+			<line>Motor für Schiebedach, hinten-V146</line>
+		</text>
+		<text id="TESTID00405">
+			<line>Motor für Rollo Schiebedach-V260</line>
+		</text>
+		<text id="TESTID00406">
+			<line>Hallgeber für Motor für Schiebedach-G402</line>
+		</text>
+		<text id="TESTID00407">
+			<line>Hallgeber Motor für Schiebedach, hinten-G403</line>
+		</text>
+		<text id="TESTID00408">
+			<line>Hallgeber für Motor für Rolo Schiebedach-G404</line>
+		</text>
+		<text id="TESTID00409">
+			<line>Schalter für Schiebedach, Signal vom Nottaster steht dauernd an</line>
+		</text>
+		<text id="TESTID00410">
+			<line>Vorwahlsignal für Schiebedachöffnung</line>
+		</text>
+		<text id="TESTID00411">
+			<line>Signal vom Taster für Rollo steht dauernd an</line>
+		</text>
+		<text id="TESTID00412">
+			<line>Komfort CAN L-Leitung</line>
+		</text>
+		<text id="TESTID00413">
+			<line>Komfort CAN H-Leitung</line>
+		</text>
+		<text id="TESTID00414">
+			<line>CAN L-Leitung</line>
+		</text>
+		<text id="TESTID00415">
+			<line>CAN H-Leitung</line>
+		</text>
+		<text id="TESTID00416">
+			<line>Thermoschutz Motor für Schiebedach</line>
+		</text>
+		<text id="TESTID00417">
+			<line>Mittel-Tieftonlautsprecher vorne links-R101</line>
+		</text>
+		<text id="TESTID00418">
+			<line>Mittel-Tieftonlautsprecher vorne rechts-R102</line>
+		</text>
+		<text id="TESTID00419">
+			<line>Mitteltonlautsprecher vorne links-R103</line>
+		</text>
+		<text id="TESTID00420">
+			<line>Mitteltonlautsprecher vorne rechts-R104</line>
+		</text>
+		<text id="TESTID00421">
+			<line>Mitteltonlautsprecher hinten links-R105</line>
+		</text>
+		<text id="TESTID00422">
+			<line>Mitteltonlautsprecher hinten rechts-R106</line>
+		</text>
+		<text id="TESTID00423">
+			<line>Thermoschutz Motor für Rolo Schiebedach</line>
+		</text>
+		<text id="TESTID00424">
+			<line>Taktansteuerung der Geber für Einparkhilfe</line>
+		</text>
+		<text id="TESTID00425">
+			<line>Funktionstest der Anzeigen für Einparkhilfe</line>
+		</text>
+		<text id="TESTID00426">
+			<line>Kontrolllampe für Stabilitätsprogramm-K155</line>
+		</text>
+		<text id="TESTID00427">
+			<line>Verkabelungstest der Geber für Einparkhilfe</line>
+		</text>
+		<text id="TESTID00428">
+			<line>Funktionstest der Geber für Einparkhilfe</line>
+		</text>
+		<text id="TESTID00429">
+			<line>Anzeige für Einparkhilfe vorne links-Y13</line>
+		</text>
+		<text id="TESTID00430">
+			<line>Anzeige für Einparkhilfe vorne rechts-Y14</line>
+		</text>
+		<text id="TESTID00431">
+			<line>Anzeige für Einparkhilfe hinten-Y15</line>
+		</text>
+		<text id="TESTID00432">
+			<line>Versorgungsspannung für Anzeigen und Summer Einparkhilfe</line>
+		</text>
+		<text id="TESTID00433">
+			<line>Taster für Einparkhilfe-E266</line>
+		</text>
+		<text id="TESTID00434">
+			<line>Geber für Einparkhilfe vorne links innen-G332</line>
+		</text>
+		<text id="TESTID00435">
+			<line>Geber für Einparkhilfe vorne rechts innen-G333</line>
+		</text>
+		<text id="TESTID00436">
+			<line>Geber für Einparkhilfe hinten links innen-G334</line>
+		</text>
+		<text id="TESTID00437">
+			<line>Geber für Einparkhilfe hinten rechts innen-G335</line>
+		</text>
+		<text id="TESTID00438">
+			<line>Geber 2 für Kraftstoffvorrat-G169</line>
+		</text>
+		<text id="TESTID00439">
+			<line>Geber 3 für Kraftstoffvorrat-G237</line>
+		</text>
+		<text id="TESTID00440">
+			<line>Geber für Kraftstoffvorrat-Zusatztank-G292</line>
+		</text>
+		<text id="TESTID00441">
+			<line>Geber für Schwimmerstand Kraftstoffvorrat-Zusatztank-G293</line>
+		</text>
+		<text id="TESTID00442">
+			<line>Klemme 87F Kraftstoffpumpe</line>
+		</text>
+		<text id="TESTID00443">
+			<line>Sicherung Kraftstoffpumpe Zusatztank-S266</line>
+		</text>
+		<text id="TESTID00444">
+			<line>Ansteuerung Kraftstoffpumpe Zusatztank</line>
+		</text>
+		<text id="TESTID00445">
+			<line>Kältemittelverlust</line>
+		</text>
+		<text id="TESTID00446">
+			<line>Funktionseinschränkung durch Unterspannung</line>
+		</text>
+		<text id="TESTID00447">
+			<line>Funktionseinschränkung durch Überspannung</line>
+		</text>
+		<text id="TESTID00448">
+			<line>Vorladepumpe für Haldexkupplung -V181</line>
+		</text>
+		<text id="TESTID00449">
+			<line>Vorladepumpe an</line>
+		</text>
+		<text id="TESTID00450">
+			<line>Vorladepumpe aus</line>
+		</text>
+		<text id="TESTID00451">
+			<line>Allradkupplung getrennt</line>
+		</text>
+		<text id="TESTID00452">
+			<line>Allradkupplung geschlossen</line>
+		</text>
+		<text id="TESTID00453">
+			<line>Funktionseinschränkung durch Übertemperatur</line>
+		</text>
+		<text id="TESTID00454">
+			<line>Allradüberwachung</line>
+		</text>
+		<text id="TESTID00455">
+			<line>Steuergerät für Zugang und Startberechtigung</line>
+			<line>am Komfort CAN-J518</line>
+		</text>
+		<text id="TESTID00456">
+			<line>Steuergerät für Zugang und Startberechtigung-J518</line>
+		</text>
+		<text id="TESTID00457">
+			<line>Steuergerät für Bordnetz-J519</line>
+		</text>
+		<text id="TESTID00458">
+			<line>Steuergerät für Batterieüberwachung-J367</line>
+		</text>
+		<text id="TESTID00459">
+			<line>Steuergerät, Anzeige und Bedieneinheit für Information,</line>
+			<line>vorne-J523</line>
+		</text>
+		<text id="TESTID00460">
+			<line>Steuergerät, Anzeige und Bedieneinheit für Information,</line>
+			<line>hinten-J524</line>
+		</text>
+		<text id="TESTID00461">
+			<line>Steuergerät für Sitzverstellung mit Memory, Beifahrer-J521</line>
+		</text>
+		<text id="TESTID00462">
+			<line>Steuergerät für Sitzverstellung mit Memory, hinten-J522</line>
+		</text>
+		<text id="TESTID00463">
+			<line>Steuergerät für Digitales Soundpaket-J525</line>
+		</text>
+		<text id="TESTID00464">
+			<line>Steuergerät mit Anzeigeeinheit für Radio und Navigation-J503</line>
+		</text>
+		<text id="TESTID00465">
+			<line>Steuergerät für Telefon/Telematik-J526</line>
+		</text>
+		<text id="TESTID00466">
+			<line>Steuergerät für Lenksäulenelektronik-J527</line>
+		</text>
+		<text id="TESTID00467">
+			<line>TV-Tuner-R78</line>
+		</text>
+		<text id="TESTID00468">
+			<line>CD-ROM Laufwerk-R92</line>
+		</text>
+		<text id="TESTID00469">
+			<line>Datenbus Infotainment im Eindraht</line>
+		</text>
+		<text id="TESTID00470">
+			<line>Konzern-Datenbus Komfort im Eindraht</line>
+		</text>
+		<text id="TESTID00471">
+			<line>Steuergerät für EGD elektronisch geregelte Dämpfung-J250</line>
+		</text>
+		<text id="TESTID00472">
+			<line>Steuergerät für Bremskraftverstärkung-J539</line>
+		</text>
+		<text id="TESTID00473">
+			<line>Steuergerät für elektrische Park-/Handbremse-J540</line>
+		</text>
+		<text id="TESTID00474">
+			<line>Steuergerät für Wegfahrsperre</line>
+		</text>
+		<text id="TESTID00475">
+			<line>Steuergerät für Schiebetür-J558</line>
+		</text>
+		<text id="TESTID00476">
+			<line>Steuergerät für Kraftstoffpumpe-J538</line>
+		</text>
+		<text id="TESTID00477">
+			<line>Steuerg., Anzeige u.Bedieneinh. f. Inform.</line>
+			<line>vo.-J523,am Komf. CAN</line>
+		</text>
+		<text id="TESTID00478">
+			<line>Steuerg., Anzeige u. Bedieneinh. f.Inform.</line>
+			<line>hi.-J524,am Komf. CAN</line>
+		</text>
+		<text id="TESTID00479">
+			<line>Steuergerät für Fernbedienung-Zentralverriegelung-J276</line>
+		</text>
+		<text id="TESTID00480">
+			<line>Steuergerät im Schalttafeleinsatz-J285, am Infotainment CAN</line>
+		</text>
+		<text id="TESTID00481">
+			<line>Steuergerät für Verkehrsfunk-J559</line>
+		</text>
+		<text id="TESTID00482">
+			<line>Anzeigeeinheit für TV und Video, hinten-R97</line>
+		</text>
+		<text id="TESTID00483">
+			<line>Steuergerät für Luftzusatzheizung</line>
+		</text>
+		<text id="TESTID00484">
+			<line>Steuergerät für Fahrzeuglageerkennung-J603</line>
+		</text>
+		<text id="TESTID00485">
+			<line>Taster für Zentralverriegelung, Türaußengriff Fahrerseite-E369</line>
+		</text>
+		<text id="TESTID00486">
+			<line>Taster für Zentralverriegelung,</line>
+			<line>Türaußengriff Beifahrerseite-E370</line>
+		</text>
+		<text id="TESTID00487">
+			<line>Taster für Zentralverriegelung, Türaußengriff hinten links-E371</line>
+		</text>
+		<text id="TESTID00488">
+			<line>Taster für Zentralverriegelung,</line>
+			<line>Türaußengriff hinten rechts-E372</line>
+		</text>
+		<text id="TESTID00489">
+			<line>Geber für Ausströmtemperatur hinten links-G405</line>
+		</text>
+		<text id="TESTID00490">
+			<line>Geber für Ausströmtemperatur hinten rechts-G406</line>
+		</text>
+		<text id="TESTID00491">
+			<line>Zuordnung der Drehzahlfühler am Steuergerät prüfen</line>
+		</text>
+		<text id="TESTID00492">
+			<line>Karosserienickwinkel vom Steuergerät für Niveauregulierung</line>
+		</text>
+		<text id="TESTID00493">
+			<line>ESP-Sensoreinheit-G419</line>
+		</text>
+		<text id="TESTID00494">
+			<line>ESP-Sensoreinheit, falsches Bauteil</line>
+		</text>
+		<text id="TESTID00495">
+			<line>ESP-Sensoreinheit, Versorgungsspannung</line>
+		</text>
+		<text id="TESTID00496">
+			<line>Geber für Fahrzeugniveau vorne</line>
+		</text>
+		<text id="TESTID00497">
+			<line>Geber für Fahrzeugniveau hinten</line>
+		</text>
+		<text id="TESTID00498">
+			<line>Fahrtenschreiber</line>
+		</text>
+		<text id="TESTID00499">
+			<line>Anzeige für Bordspannung-Y11</line>
+		</text>
+		<text id="TESTID00500">
+			<line>Anzeige für Öltemperatur-Y12</line>
+		</text>
+		<text id="TESTID00501">
+			<line>Kontrolllampe für Ölstand-K38</line>
+		</text>
+		<text id="TESTID00502">
+			<line>Kontrolllampe für Wegfahrsperre-K115</line>
+		</text>
+		<text id="TESTID00503">
+			<line>Ansteuerung Ventile Pumpe/Düse</line>
+		</text>
+		<text id="TESTID00504">
+			<line>Ventil für Pumpe/Düse Zylinder 1-N240</line>
+		</text>
+		<text id="TESTID00505">
+			<line>Ventil für Pumpe/Düse Zylinder 2-N241</line>
+		</text>
+		<text id="TESTID00506">
+			<line>Ventil für Pumpe/Düse Zylinder 3-N242</line>
+		</text>
+		<text id="TESTID00507">
+			<line>Ventil für Pumpe/Düse Zylinder 4-N243</line>
+		</text>
+		<text id="TESTID00508">
+			<line>Ventil für Pumpe/Düse Zylinder 5-N244</line>
+		</text>
+		<text id="TESTID00509">
+			<line>Ventil für Pumpe/Düse Zylinder 6-N245</line>
+		</text>
+		<text id="TESTID00510">
+			<line>Motor für Windabweiser-V252</line>
+		</text>
+		<text id="TESTID00511">
+			<line>Wählhebel-E313</line>
+		</text>
+		<text id="TESTID00512">
+			<line>Hallgeber nicht auf Bezugsmarke</line>
+		</text>
+		<text id="TESTID00513">
+			<line>Geber für Motordrehzahl-G28</line>
+		</text>
+		<text id="TESTID00514">
+			<line>Geber für Zündzeitpunkt-G4</line>
+		</text>
+		<text id="TESTID00515">
+			<line>Hallgeber-G40</line>
+		</text>
+		<text id="TESTID00516">
+			<line>LeerlauTESTIDhalter-F60</line>
+		</text>
+		<text id="TESTID00517">
+			<line>Vollastschalter-F81</line>
+		</text>
+		<text id="TESTID00518">
+			<line>Drosselklappenpotentiometer-G69</line>
+		</text>
+		<text id="TESTID00519">
+			<line>Geber für Saugrohrdruck-G71</line>
+		</text>
+		<text id="TESTID00520">
+			<line>Luftmassen-/mengenmesser-G70/G19</line>
+		</text>
+		<text id="TESTID00521">
+			<line>CO-Potentiometer-G74</line>
+		</text>
+		<text id="TESTID00522">
+			<line>Geber für Kühlmitteltemperatur-G62</line>
+		</text>
+		<text id="TESTID00523">
+			<line>Geber für Ansauglufttemperatur-G42</line>
+		</text>
+		<text id="TESTID00524">
+			<line>Klopfsensor 1-G61</line>
+		</text>
+		<text id="TESTID00525">
+			<line>Lambda-Sonde-G39</line>
+		</text>
+		<text id="TESTID00526">
+			<line>Bremslichtschalter-F</line>
+		</text>
+		<text id="TESTID00527">
+			<line>Geber für Saugrohrtemperatur-G72</line>
+		</text>
+		<text id="TESTID00528">
+			<line>Höhengeber-F96</line>
+		</text>
+		<text id="TESTID00529">
+			<line>Drehzahlinformation fehlt</line>
+		</text>
+		<text id="TESTID00530">
+			<line>Drosselklappensteller/Potentiometer-G88</line>
+		</text>
+		<text id="TESTID00531">
+			<line>Luftmassenmesser Referenzspannung</line>
+		</text>
+		<text id="TESTID00532">
+			<line>Versorgungsspannung</line>
+		</text>
+		<text id="TESTID00533">
+			<line>Leerlaufregelung</line>
+		</text>
+		<text id="TESTID00534">
+			<line>Geber für Öltemperatur-G8</line>
+		</text>
+		<text id="TESTID00535">
+			<line>Erste Klopfregelung</line>
+		</text>
+		<text id="TESTID00536">
+			<line>Zweite Klopfregelung</line>
+		</text>
+		<text id="TESTID00537">
+			<line>Lambda-Regelung</line>
+		</text>
+		<text id="TESTID00538">
+			<line>Referenzspannung</line>
+		</text>
+		<text id="TESTID00539">
+			<line>Geber für Kraftstofftemperatur-G81</line>
+		</text>
+		<text id="TESTID00540">
+			<line>Klopfsensor 2-G66</line>
+		</text>
+		<text id="TESTID00541">
+			<line>Potentiometer für Schieberweg-G99</line>
+		</text>
+		<text id="TESTID00542">
+			<line>Geber für Nadelhub-G80</line>
+		</text>
+		<text id="TESTID00543">
+			<line>Drehzahl nach Maximum überschritten</line>
+		</text>
+		<text id="TESTID00544">
+			<line>Ladedruck nach Maximum überschritten</line>
+		</text>
+		<text id="TESTID00545">
+			<line>Motor/Getriebe elektrische Verbindung</line>
+		</text>
+		<text id="TESTID00546">
+			<line>Datenleitung defekt</line>
+		</text>
+		<text id="TESTID00547">
+			<line>Druckkontrollschalter für ABS-F137</line>
+		</text>
+		<text id="TESTID00548">
+			<line>Spannungsversorgung Fehlerspeicher</line>
+		</text>
+		<text id="TESTID00549">
+			<line>Verbrauchssignal</line>
+		</text>
+		<text id="TESTID00550">
+			<line>Spritzbeginnregelung</line>
+		</text>
+		<text id="TESTID00551">
+			<line>Katalysatorübertemperatur</line>
+		</text>
+		<text id="TESTID00552">
+			<line>Potentiometer für Luftmengenmesser-G19</line>
+		</text>
+		<text id="TESTID00553">
+			<line>Luftmassenmesser-G70</line>
+		</text>
+		<text id="TESTID00554">
+			<line>Lambda-Regelung 2</line>
+		</text>
+		<text id="TESTID00555">
+			<line>Lambda-Sonde 2-G108</line>
+		</text>
+		<text id="TESTID00556">
+			<line>Potentiometer für Abgasrückführung-G212</line>
+		</text>
+		<text id="TESTID00557">
+			<line>Druckschalter Servolenkung-F88</line>
+		</text>
+		<text id="TESTID00558">
+			<line>Einstellgrenze Gemischregler mager</line>
+		</text>
+		<text id="TESTID00559">
+			<line>Einstellgrenze Gemischregler fett</line>
+		</text>
+		<text id="TESTID00560">
+			<line>Abgasrückführungssystem</line>
+		</text>
+		<text id="TESTID00561">
+			<line>Gemischanpassung</line>
+		</text>
+		<text id="TESTID00562">
+			<line>Geber für Ölstand-/Temperatur-G266</line>
+		</text>
+		<text id="TESTID00563">
+			<line>Anzeige für Momentanverbrauch-Y10</line>
+		</text>
+		<text id="TESTID00565">
+			<line>Bedienungs-und Anzeigeeinheit fürClimatronic hinten-E265</line>
+		</text>
+		<text id="TESTID00566">
+			<line>Lenkhilfe-Betrieb</line>
+		</text>
+		<text id="TESTID00567">
+			<line>Ansteuerung Lenkmotor</line>
+		</text>
+		<text id="TESTID00568">
+			<line>Positionssensoren im Lenkmotor</line>
+		</text>
+		<text id="TESTID00569">
+			<line>Strom Lenkmotor</line>
+		</text>
+		<text id="TESTID00570">
+			<line>Relais für Lenkmotor-J509</line>
+		</text>
+		<text id="TESTID00571">
+			<line>Lenkkopplung</line>
+		</text>
+		<text id="TESTID00572">
+			<line>Geber für Lenkposition-G268</line>
+		</text>
+		<text id="TESTID00573">
+			<line>Geber für Lenkmoment-G269</line>
+		</text>
+		<text id="TESTID00574">
+			<line>Antriebsmotor ein</line>
+		</text>
+		<text id="TESTID00575">
+			<line>Saugrohrdruck</line>
+		</text>
+		<text id="TESTID00576">
+			<line>Klemme 15</line>
+		</text>
+		<text id="TESTID00577">
+			<line>Klopfregelung Zylinder 1</line>
+		</text>
+		<text id="TESTID00578">
+			<line>Klopfregelung Zylinder 2</line>
+		</text>
+		<text id="TESTID00579">
+			<line>Klopfregelung Zylinder 3</line>
+		</text>
+		<text id="TESTID00580">
+			<line>Klopfregelung Zylinder 4</line>
+		</text>
+		<text id="TESTID00581">
+			<line>Klopfregelung Zylinder 5</line>
+		</text>
+		<text id="TESTID00582">
+			<line>Klopfregelung Zylinder 6</line>
+		</text>
+		<text id="TESTID00583">
+			<line>Klopfregelung Zylinder 7</line>
+		</text>
+		<text id="TESTID00584">
+			<line>Klopfregelung Zylinder 8</line>
+		</text>
+		<text id="TESTID00585">
+			<line>Temperaturfühler Abgasrückführung-G98</line>
+		</text>
+		<text id="TESTID00586">
+			<line>Regelung Abgasrückführungssystem</line>
+		</text>
+		<text id="TESTID00587">
+			<line>Einstellgrenze Gemischregler</line>
+		</text>
+		<text id="TESTID00588">
+			<line>Zünder für Airbag (Fahrerseite)-N95</line>
+		</text>
+		<text id="TESTID00589">
+			<line>Zünder 1 für Airbag (Beifahrerseite)-N131</line>
+		</text>
+		<text id="TESTID00590">
+			<line>Zünder 2 für Airbag (Beifahrerseite)-N132</line>
+		</text>
+		<text id="TESTID00591">
+			<line>Gurtschalter Fahrerseite-E24</line>
+		</text>
+		<text id="TESTID00592">
+			<line>Gurtschalter Beifahrerseite-E25</line>
+		</text>
+		<text id="TESTID00593">
+			<line>Sitzkontaktschalter Beifahrersitz-F151</line>
+		</text>
+		<text id="TESTID00594">
+			<line>Zündkreise Airbag</line>
+		</text>
+		<text id="TESTID00595">
+			<line>Crashdaten gespeichert</line>
+		</text>
+		<text id="TESTID00596">
+			<line>Kurzschluss zwischen Ventilleitungen</line>
+		</text>
+		<text id="TESTID00597">
+			<line>Unterschiedliche Raddrehzahlimpulse</line>
+		</text>
+		<text id="TESTID00598">
+			<line>Hydraulisch-/mechanischer Fehler</line>
+		</text>
+		<text id="TESTID00599">
+			<line>Plausibilität Druck-/Bremslichtschalter</line>
+		</text>
+		<text id="TESTID00600">
+			<line>Potentiometer-Stellmotor</line>
+			<line>für Temperaturklappe-G92</line>
+		</text>
+		<text id="TESTID00601">
+			<line>Potentiometer-Stellmotor</line>
+			<line>für Zentralklappe-G112</line>
+		</text>
+		<text id="TESTID00602">
+			<line>Potentiometer-Stellmotor</line>
+			<line>für Fußraum-/Defrostklappe-G114</line>
+		</text>
+		<text id="TESTID00603">
+			<line>Stellmotor für Fußraum-/Defrostklappe-V85</line>
+		</text>
+		<text id="TESTID00604">
+			<line>Potentiometer-Stellmotor</line>
+			<line>für Staudruckklappe-G113</line>
+		</text>
+		<text id="TESTID00605">
+			<line>Zweiwegeventil Frisch-/Umluftklappe-N63</line>
+		</text>
+		<text id="TESTID00606">
+			<line>Zweiwegeventil für Kühlmittelabsperrventil-N147</line>
+		</text>
+		<text id="TESTID00607">
+			<line>Aussentemperaturanzeiger-G106</line>
+		</text>
+		<text id="TESTID00608">
+			<line>Geber für Beladungszustand-G119</line>
+		</text>
+		<text id="TESTID00609">
+			<line>Zündausgang 1</line>
+		</text>
+		<text id="TESTID00610">
+			<line>Zündausgang 2</line>
+		</text>
+		<text id="TESTID00611">
+			<line>Zündausgang 3</line>
+		</text>
+		<text id="TESTID00612">
+			<line>Zündausgang 4</line>
+		</text>
+		<text id="TESTID00613">
+			<line>Zündausgang 5</line>
+		</text>
+		<text id="TESTID00614">
+			<line>Zündausgang 6</line>
+		</text>
+		<text id="TESTID00615">
+			<line>Zündausgang 7</line>
+		</text>
+		<text id="TESTID00616">
+			<line>Zündausgang 8</line>
+		</text>
+		<text id="TESTID00617">
+			<line>Geber für Verzögerung links-Airbag-G104</line>
+		</text>
+		<text id="TESTID00618">
+			<line>Geber für Verzögerung rechts-Airbag-G105</line>
+		</text>
+		<text id="TESTID00619">
+			<line>Geberzuleitung links</line>
+		</text>
+		<text id="TESTID00620">
+			<line>Geberzuleitung rechts</line>
+		</text>
+		<text id="TESTID00621">
+			<line>Ventil für Druckminderung-N155</line>
+		</text>
+		<text id="TESTID00622">
+			<line>Kraftstoffilter entwässern</line>
+		</text>
+		<text id="TESTID00623">
+			<line>ABS/Getriebe elektrische Verbindung</line>
+		</text>
+		<text id="TESTID00624">
+			<line>Klimakompressoreingriff</line>
+		</text>
+		<text id="TESTID00625">
+			<line>Geschwindigkeitssignal</line>
+		</text>
+		<text id="TESTID00626">
+			<line>Kontrolllampe für Vorglühzeit-K29</line>
+		</text>
+		<text id="TESTID00627">
+			<line>Geber für Wasserstand-G120</line>
+		</text>
+		<text id="TESTID00628">
+			<line>Stellgrößenüberwachung</line>
+		</text>
+		<text id="TESTID00629">
+			<line>Bremspedalschalter-F47</line>
+		</text>
+		<text id="TESTID00630">
+			<line>Klimaanlage eingeschaltet</line>
+		</text>
+		<text id="TESTID00631">
+			<line>Verbindung AC - Motronic</line>
+		</text>
+		<text id="TESTID00632">
+			<line>Klimatronic Kombi Interface</line>
+		</text>
+		<text id="TESTID00633">
+			<line>Leitungen Zünder/Geber für Verzögerung</line>
+		</text>
+		<text id="TESTID00634">
+			<line>Vorwiderstand für EDS-N159</line>
+		</text>
+		<text id="TESTID00635">
+			<line>Heizung Lambdasonde vor Katalysator</line>
+		</text>
+		<text id="TESTID00636">
+			<line>Geber für Beschleunigung vorn rechts-G121</line>
+		</text>
+		<text id="TESTID00637">
+			<line>Geber für Beschleunigung hinten links-G122</line>
+		</text>
+		<text id="TESTID00638">
+			<line>Motor/Getriebe elektrische Verbindung 2</line>
+		</text>
+		<text id="TESTID00639">
+			<line>Geber für Verzögerung-G123</line>
+		</text>
+		<text id="TESTID00640">
+			<line>Relais für Heizung Lambdasonde-J278</line>
+		</text>
+		<text id="TESTID00641">
+			<line>ATF Temperatur</line>
+		</text>
+		<text id="TESTID01700">
+			<line>Signalhorn für DWA -H8</line>
+		</text>
+		<text id="TESTID01701">
+			<line>Dimmung für Innenlicht</line>
+		</text>
+		<text id="TESTID01702">
+			<line>Fußraumleuchte links -W9</line>
+		</text>
+		<text id="TESTID01703">
+			<line>Fußraumleuchte rechts -W10</line>
+		</text>
+		<text id="C1102F1">
+			<constraints noTranslation="true" />
+			<line>Steuergerät für Spurhalteassistent</line>
+			<line>Eingeschränkte Sicht</line>
+		</text>
+		<text id="C200000">
+			<constraints obd="true" obd-key="C200000" />
+			<line>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</line>
+		</text>
+		<text id="default">
+			<line>Nicht gefunden</line>
+		</text>
+		<text id="none">
+			<line>Suchschluessel</line>
+		</text>
+	</textTable>
+</textTables>
+
